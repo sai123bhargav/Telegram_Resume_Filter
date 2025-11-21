@@ -22,7 +22,7 @@ It performs:
 
 Below is the full workflow structure:
 
-![Workflow Diagram]("C:\Users\bharg\OneDrive\Pictures\Screenshots\Screenshot 2025-11-21 165424.png")
+![Workflow Diagram](/mnt/data/Screenshot 2025-11-21 165424.png)
 
 ---
 
@@ -70,5 +70,3 @@ Sends different messages depending on the AI decision:
 - Wait node controls execution timing.
 
 ---
-
-## 📁 **Suggested Repository St
